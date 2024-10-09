@@ -3,11 +3,17 @@ The AutoRecon tool is built for automating the reconnaissance phase in penetrati
 Installation
 Clone the repository:
 
-git clone https://github.com/codes-by-utkarsh/autoRECON.git
-cd autoRECON
-
+bash
+Copy code
+git clone https://github.com/yourusername/autorecon.git
+cd autorecon
 Install dependencies: Ensure you have Python installed. Install the required packages using the requirements.txt file:
-pip install -r requirements.txt
 
+bash
+Copy code
+pip install -r requirements.txt
 Grant execution permission to the script:
+
+bash
+Copy code
 chmod +x autorecon.py
