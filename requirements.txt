@@ -1,5 +1,5 @@
-sudo apt-get pip
 sudo apt install nmap
 pip install python-nmap
-pip install dnspython
+pip install Matplotlib
+pip install network
 pip install subprocess
