@@ -17,4 +17,35 @@ If Python 3 is not installed, follow these steps:
 
    ```bash
    sudo apt update
-   
+   sudo apt install python3
+   python3 --version
+   ```
+2. Install Git (if not installed):
+   ```bash
+   sudo apt install git
+   ```
+
+3. Clone the Repository:
+    ```bash
+   git clone https://github.com/your-username/autoRECON.git
+   ```
+4. cd autoRECON
+    
+5. Install Dependencies:
+   ```bash
+   pip3 install -r requirements.txt
+   ```   
+##Usage
+Run the tool with:
+   ```bash
+   python3 autoRECON.py
+   ```
+
+Features
+Port Scanning: Enumerates open ports and identifies services.
+Vulnerability Scanning: Detects vulnerabilities in discovered services.
+Exploit Search: Finds known exploits for identified vulnerabilities.
+Website Testing: Discovers subdomains and analyzes website vulnerabilities.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
