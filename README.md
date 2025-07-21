@@ -27,7 +27,7 @@ If Python 3 is not installed, follow these steps:
 
 3. Clone the Repository:
     ```bash
-   git clone https://github.com/your-username/autoRECON.git
+   git clone https://github.com/codes-by-utkarsh/autoRECON.git
    ```
 4. cd autoRECON
     
