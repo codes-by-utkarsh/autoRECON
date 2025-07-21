@@ -46,6 +46,3 @@ Port Scanning: Enumerates open ports and identifies services.
 Vulnerability Scanning: Detects vulnerabilities in discovered services.
 Exploit Search: Finds known exploits for identified vulnerabilities.
 Website Testing: Discovers subdomains and analyzes website vulnerabilities.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
